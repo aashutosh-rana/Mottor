@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotorApplication</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="motor_status">Motor status</string>
+    <string name="set_time">Set time</string>
+</resources>
